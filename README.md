@@ -1,6 +1,6 @@
 # portfolio-impacto-ensino-integral-pb
 
-An├ílise do impacto do ensino integral na Para├¡ba com abordagem orientada a dados.
+Estudo analítico sobre o impacto do ensino integral na Paraíba.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Engineering%20%2B%20IA-0A66C2?style=flat)
